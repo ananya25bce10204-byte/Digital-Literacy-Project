@@ -1,0 +1,19 @@
+Write an email from a student to their professor requesting an extension on an assignment submission deadline. The email must follow all professional email rules
+
+Dear Professor Kannan,
+
+I hope this message finds you well.
+
+I am writing to respectfully request an extension on the deadline for the Digital Literacy Project, which is currently due on 31st March. 
+Due to academic workload i.e. exams, I have been unable to complete the assignment to the best of my ability within the given timeframe.
+
+I sincerely value the quality of my work and would greatly appreciate the opportunity to submit the assignment by 12 April 2026. I assure you that I am making every effort to complete it as soon as possible.
+
+I apologize for any inconvenience this request may cause and appreciate your understanding and consideration.
+
+Thank you for your time.
+
+Yours sincerely,
+Ananya
+25BCE10204
+CSE Core (First Year)
